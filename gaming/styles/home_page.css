@@ -108,18 +108,18 @@ footer {
 }
 .msg p {
   background-color: rgb(185, 140, 16);
-  color: #F6F740;
+  color: #b98c10;
   text-decoration: none;
 }
 footer h3 {
   color: white;
 }
 footer a {
-  color: #00B4D8;
+  color: #b98c10;
   text-decoration: none;
 }
 footer a:hover {
-  color: #F6F740;
+  color: #b98c10;
 }
 footer h3 a {
   text-decoration: underline;
